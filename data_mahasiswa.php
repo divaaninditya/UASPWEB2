@@ -9,6 +9,11 @@ $conn,
 $no = 1;
 ?>
 
+
+<a href="cetak_pdf_mahasiswa.php" target="_blank" class="btn btn-danger mb-3">
+    <i class="fa fa-file-pdf"></i> Cetak Data Mahasiswa
+</a>
+
 <div class="table-box">
 
 <table class="table table-bordered datatable">
